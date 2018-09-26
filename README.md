@@ -1,41 +1,41 @@
 # FrontEndDeveloperTools
 
----Color---
+## Color
 Adobe kuler
 Colorzilla
 Dribble.com
 Hues
 
----Typography---
+## Typography
 Google Webfonts
 Font Squirrel
 Lost Type
 Typecast
 
----Wireframing---
+## Wireframing
 Balsamiq
 Mocflow(free)
 Google Drawing(free)
 FW PS Id
 
----Layout and Boilderplates--
+## Layout and Boilderplates
 1140 CSS Grid
 LessFramework
 Foundation(Free)
 Bootstrap(Free)
 
----Content Management---
+## Content Management
 WordPress(free)
 Joomla(free)
 Expression Engine
 Drupal
 
----Coding---
+## Coding
 Coda 2
 SublimeText 2
 Aptana Studio
 
----Usefull Apps and Resources---
+## Usefull Apps and Resources
 CyberDuck
 FileZilla
 GuideGuide(Photoshop Extension)
