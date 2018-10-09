@@ -1,6 +1,14 @@
 ## VSCodeExtensions
 - RDoc README Previewer
 
+## Browser Compatibility
+- http://html5test.com/
+- https://quirksmode.org/
+
+## Useful Resources
+- http://highscalability.com/
+- https://www.w3.org/standards/webdesign/
+
 ## Color
 - Adobe kuler
 - Colorzilla
