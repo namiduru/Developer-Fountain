@@ -22,6 +22,7 @@
 ## Useful Resources
 - http://highscalability.com/
 - https://www.w3.org/standards/webdesign/
+- http://www.ecma-international.org/publications/standards/Ecma-262.htm
 
 ## Color
 - Adobe kuler
