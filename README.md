@@ -1,5 +1,6 @@
 ## VSCodeExtensions
 - RDoc README Previewer
+- Live Server
 
 ## Browser Compatibility
 - http://html5test.com/
