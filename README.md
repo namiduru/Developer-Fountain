@@ -5,6 +5,19 @@
 - http://html5test.com/
 - https://quirksmode.org/
 
+## Rest
+- https://reqres.in/
+
+## Regular Expressions
+- https://regexone.com/
+
+## Server Operations
+- https://winscp.net/eng/index.php
+- https://filezilla-project.org/
+
+- https://cyberduck.io/
+
+
 ## Useful Resources
 - http://highscalability.com/
 - https://www.w3.org/standards/webdesign/
@@ -45,11 +58,6 @@
 - Aptana Studio
 
 ## Usefull Apps and Resources
-- CyberDuck
-- FileZilla
 - GuideGuide(Photoshop Extension)
 - bjango
 - By People
-- awesome-fontstack.com
-- LittleIpsum
-- Tempoo
