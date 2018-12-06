@@ -20,5 +20,3 @@ Ex: You may using routing option easily like when you rotate your phone to lands
 ## Installation
 npm install react-router
 yarn add react-router
-
-## Testing
