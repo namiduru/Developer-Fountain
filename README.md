@@ -1,6 +1,7 @@
 ## VSCodeExtensions
 - RDoc README Previewer
 - Live Server
+- Hopscotch (Official)
 
 ## Browser Compatibility
 - http://html5test.com/
