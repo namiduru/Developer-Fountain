@@ -6,11 +6,11 @@ This has build in shouldComponentUpdate method that makes shallow compression of
 
 - For example there is a implementation example of should component update. That means when prev and the current probs not the same keep rendering lifecycle otherwise stop.
 
-...
+```
 shouldComponentUpdate(prevProps, prevState){
     return prevProps.name != this.props.name;
 }
-...
+```
 
 This is the feature to make optimization on React appications.
 
