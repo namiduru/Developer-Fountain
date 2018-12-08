@@ -38,14 +38,20 @@ Example:
 Accessing child component state easier
 
 ### Exporting Context
+
+```
 export const AuthContext = React.createContext({
   isAuth: false,
   toogleAuth: () => {}
 });
+```
 
 ### Under Another Component
+
+```
 import { AuthContext } from '../App';
 
 static contextType = AuthContext;
+```
 
 this.context would give tou context that you exported.
