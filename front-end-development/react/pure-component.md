@@ -18,8 +18,10 @@ This is the feature to make optimization on React appications.
 
 ## Implementation
 
+```
 import react from 'react';
 
 class PureComponent extends React.PureComponent{
 
 }
+```
