@@ -9,6 +9,7 @@
 
 ## Rest
 - https://reqres.in/
+- https://install.advancedrestclient.com
 
 ## Regular Expressions
 - https://regexone.com/
