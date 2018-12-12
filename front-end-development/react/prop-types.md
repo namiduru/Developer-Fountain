@@ -16,6 +16,7 @@ npm install --save prop-types
 ```
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
+
 class MyComponent extends Component {
     render() {
     }
