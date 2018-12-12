@@ -13,12 +13,11 @@ npm install --save prop-types
 
 ### Implementation
 
-`
+```
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 class MyComponent extends Component {
     render() {
-
     }
 }
 
@@ -31,5 +30,4 @@ MyComponent.PropTypes = {
     optionalString: PropTypes.string,
     optionalSymbol: PropTypes.symbol,
 }
-
-`
+```
