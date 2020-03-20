@@ -1,64 +1,88 @@
 {
-  "editor.renderWhitespace": "all",
-  "window.zoomLevel": 0,
-  "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "editor.tabSize": 2,
-  "materialTheme.accent": "Graphite",
-  "editor.fontWeight": "900",
-  "terminal.integrated.fontWeight": "bold",
-  "terminal.integrated.fontFamily": "Fira Code",
-  "workbench.startupEditor": "newUntitledFile",
-  "liveServer.settings.https": {
-      "enable": false,
-      "cert": "",
-      "key": "",
-      "passphrase": ""
-  },
-  "keyboard.dispatch": "keyCode",
-  "workbench.colorTheme": "Hop Light",
-  "workbench.colorCustomizations": {
-      "editorCursor.foreground": "red",
-      "terminalCursor.foreground": "red"
-  },
-  "eslint.autoFixOnSave": true,
-  "editor.tabCompletion": "on",
-  "eslint.alwaysShowStatus": true,
-  "liveshare.presence": false,
-  "emmet.includeLanguages": {
-      "javascript": "javascriptreact"
-  },
-  "oneDarkPro.bold": false,
-  "workbench.iconTheme": "material-icon-theme",
-  "editor.minimap.enabled": false,
-  "explorer.openEditors.visible": 0,
-  "workbench.activityBar.visible": true,
-  "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontLigatures": true,
-  "editor.fontFamily": "Fira Code",
-  "[html]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "npm.enableScriptExplorer": true,
-  "terminal.integrated.rendererType": "dom",
-  "[jsonc]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "workbench.sideBar.location": "right",
-  "editor.mouseWheelZoom": true,
-  "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true
-  },
-  "files.exclude": {
-      "**/.DS_Store": true,
-      "**/.git": true,
-      "**/.hg": true,
-      "**/.svn": true,
-      "**/CVS": true
-  },
-  "editor.cursorBlinking": "solid",
-  "editor.cursorWidth": 6,
-  "terminal.integrated.fontSize": 10,
-  "editor.fontSize": 10
-}
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.tabSize": 2,
+    "materialTheme.accent": "Graphite",
+    "editor.fontWeight": "900",
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.fontFamily": "Fira Code",
+    "workbench.startupEditor": "newUntitledFile",
+  
+    "keyboard.dispatch": "keyCode",
+    "workbench.colorTheme": "Hop Light",
+  
+    "editor.tabCompletion": "on",
+    "eslint.alwaysShowStatus": true,
+    "liveshare.presence": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "oneDarkPro.bold": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.activityBar.visible": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.rendererType": "dom",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+  
+    "todo-tree.tree.showScanModeButton": false,
+  
+    // Main Editor
+    "workbench.sideBar.location": "right",
+  
+    // Saving File Actions
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+  
+    // Cursor And Mouse Operations
+    "editor.cursorWidth": 3,
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#DC143C",
+        "terminalCursor.foreground": "#DC143C"
+    },
+    "editor.mouseWheelZoom": false,
+    "editor.cursorBlinking": "expand",
+    
+    // Font-size
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 12,
+  
+    // Enable Tabs and Disable Preview
+    "workbench.editor.showTabs": true,
+    "workbench.editor.enablePreview": false,
+  
+    // Editor File Cover
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.hg": true,
+        "**/.svn": true,
+        "**/CVS": true
+    },
+  
+    // Extension Configurations
+    "liveServer.settings.https": {
+        "enable": false,
+        "cert": "",
+        "key": "",
+        "passphrase": ""
+    },
+    "eslint.autoFixOnSave": true,
+  
+    // JavaScript Configurations
+    "npm.enableScriptExplorer": true,
+  
+  }
