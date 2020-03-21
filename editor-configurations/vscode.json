@@ -1,47 +1,28 @@
 {
-    "editor.renderWhitespace": "all",
+    // Main Editor
+    "workbench.activityBar.visible": true,
+    "workbench.startupEditor": "welcomePage",
     "window.zoomLevel": 0,
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "editor.tabSize": 2,
-    "materialTheme.accent": "Graphite",
+    "workbench.sideBar.location": "right",
+    "editor.renderWhitespace": "all",
+    "editor.tabCompletion": "on",
+    "workbench.colorTheme": "Hop Light",
+    "editor.minimap.enabled": false,
+    "todo-tree.tree.showScanModeButton": false,
+    "explorer.openEditors.visible": 0,
+    // "keyboard.dispatch": "keyCode", 
+
+    // Font Settings and Typing
+    "editor.fontFamily": "Fira Code",
     "editor.fontWeight": "900",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+
+    // Terminal Settings
     "terminal.integrated.fontWeight": "bold",
     "terminal.integrated.fontFamily": "Fira Code",
-    "workbench.startupEditor": "newUntitledFile",
-  
-    "keyboard.dispatch": "keyCode",
-    "workbench.colorTheme": "Hop Light",
-  
-    "editor.tabCompletion": "on",
-    "eslint.alwaysShowStatus": true,
-    "liveshare.presence": false,
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact"
-    },
-    "oneDarkPro.bold": false,
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.minimap.enabled": false,
-    "explorer.openEditors.visible": 0,
-    "workbench.activityBar.visible": true,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "editor.fontLigatures": true,
-    "editor.fontFamily": "Fira Code",
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
     "terminal.integrated.rendererType": "dom",
-    "[jsonc]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-  
-  
-    "todo-tree.tree.showScanModeButton": false,
-  
-    // Main Editor
-    "workbench.sideBar.location": "right",
-  
+
     // Saving File Actions
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
@@ -81,8 +62,12 @@
         "passphrase": ""
     },
     "eslint.autoFixOnSave": true,
+    "liveshare.presence": false,
+    "workbench.iconTheme": "material-icon-theme",
   
     // JavaScript Configurations
     "npm.enableScriptExplorer": true,
-  
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
   }
