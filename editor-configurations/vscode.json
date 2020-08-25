@@ -69,5 +69,8 @@
     "npm.enableScriptExplorer": true,
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
-    }
+    },
+
+     // File Format
+     "files.eol": "\n"
   }
