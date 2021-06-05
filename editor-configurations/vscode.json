@@ -2,26 +2,22 @@
     // Main Editor
     "workbench.activityBar.visible": true,
     "workbench.startupEditor": "welcomePage",
-    "window.zoomLevel": 0,
     "workbench.sideBar.location": "right",
     "editor.renderWhitespace": "all",
     "editor.tabCompletion": "on",
-    "workbench.colorTheme": "Hop Light",
     "editor.minimap.enabled": false,
     "todo-tree.tree.showScanModeButton": false,
     "explorer.openEditors.visible": 0,
     // "keyboard.dispatch": "keyCode", 
 
     // Font Settings and Typing
-    "editor.fontFamily": "Fira Code",
-    "editor.fontWeight": "900",
     "editor.fontLigatures": true,
     "editor.tabSize": 2,
 
     // Terminal Settings
-    "terminal.integrated.fontWeight": "bold",
-    "terminal.integrated.fontFamily": "Fira Code",
-    "terminal.integrated.rendererType": "dom",
+    //"terminal.integrated.fontWeight": "bold",
+    //terminal.integrated.fontFamily": "Fira Code",
+    //"terminal.integrated.rendererType": "dom",
 
     // Saving File Actions
     "editor.codeActionsOnSave": {
@@ -43,7 +39,7 @@
   
     // Enable Tabs and Disable Preview
     "workbench.editor.showTabs": true,
-    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreview": true,
   
     // Editor File Cover
     "files.exclude": {
@@ -63,14 +59,31 @@
     },
     "eslint.autoFixOnSave": true,
     "liveshare.presence": false,
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "file-icons",
   
     // JavaScript Configurations
     "npm.enableScriptExplorer": true,
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
+    "workbench.colorTheme": "One Dark Pro",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
 
-     // File Format
-     "files.eol": "\n"
+    // File Format
+    "files.eol": "\n",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "remote.SSH.configFile": "C:\\Users\\mehme\\.ssh\\config",
+    "tabnine.experimentalAutoImports": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontWeight": "bold",
+    "window.zoomLevel": -1
   }
