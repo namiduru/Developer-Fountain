@@ -66,7 +66,7 @@
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
-    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorTheme": "SynthWave '84",
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
 
     // File Format
