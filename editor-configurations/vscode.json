@@ -15,9 +15,9 @@
     "editor.tabSize": 2,
 
     // Terminal Settings
-    //"terminal.integrated.fontWeight": "bold",
-    //terminal.integrated.fontFamily": "Fira Code",
-    //"terminal.integrated.rendererType": "dom",
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.rendererType": "dom",
 
     // Saving File Actions
     "editor.codeActionsOnSave": {
