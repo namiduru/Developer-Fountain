@@ -8,7 +8,7 @@
     "editor.minimap.enabled": false,
     "todo-tree.tree.showScanModeButton": false,
     "explorer.openEditors.visible": 0,
-    // "keyboard.dispatch": "keyCode", 
+    // "keyboard.dispatch": "keyCode"
 
     // Font Settings and Typing
     "editor.fontLigatures": true,
@@ -62,12 +62,10 @@
     "workbench.iconTheme": "file-icons",
   
     // JavaScript Configurations
-    "npm.enableScriptExplorer": true,
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
     "workbench.colorTheme": "SynthWave '84",
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
 
     // File Format
     "files.eol": "\n",
@@ -85,5 +83,8 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "editor.fontWeight": "500",
-    "window.zoomLevel": 3
+    "editor.fontFamily": "Fira Code",
+    "window.zoomLevel": 3,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
   }
