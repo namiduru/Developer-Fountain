@@ -84,6 +84,6 @@
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "editor.fontWeight": "bold",
-    "window.zoomLevel": -1
+    "editor.fontWeight": "500",
+    "window.zoomLevel": 3
   }
