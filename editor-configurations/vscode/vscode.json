@@ -65,7 +65,7 @@
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
-    "workbench.colorTheme": "SynthWave '84",
+    "workbench.colorTheme": "Hop Light",
 
     // File Format
     "files.eol": "\n",
@@ -82,7 +82,7 @@
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "editor.fontWeight": "500",
+    "editor.fontWeight": "600",
     "editor.fontFamily": "Fira Code",
     "window.zoomLevel": 3,
     "editor.suggestSelection": "first",
