@@ -9,21 +9,17 @@
     "todo-tree.tree.showScanModeButton": false,
     "explorer.openEditors.visible": 0,
     // "keyboard.dispatch": "keyCode"
-
     // Font Settings and Typing
     "editor.fontLigatures": true,
     "editor.tabSize": 2,
-
     // Terminal Settings
     "terminal.integrated.fontWeight": "bold",
     "terminal.integrated.fontFamily": "Fira Code",
     "terminal.integrated.rendererType": "dom",
-
     // Saving File Actions
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
-  
     // Cursor And Mouse Operations
     "editor.cursorWidth": 3,
     "workbench.colorCustomizations": {
@@ -32,15 +28,12 @@
     },
     "editor.mouseWheelZoom": false,
     "editor.cursorBlinking": "expand",
-    
     // Font-size
     "editor.fontSize": 14,
     "terminal.integrated.fontSize": 12,
-  
     // Enable Tabs and Disable Preview
     "workbench.editor.showTabs": true,
     "workbench.editor.enablePreview": true,
-  
     // Editor File Cover
     "files.exclude": {
         "**/.DS_Store": true,
@@ -49,7 +42,6 @@
         "**/.svn": true,
         "**/CVS": true
     },
-  
     // Extension Configurations
     "liveServer.settings.https": {
         "enable": false,
@@ -60,20 +52,17 @@
     "eslint.autoFixOnSave": true,
     "liveshare.presence": false,
     "workbench.iconTheme": "file-icons",
-  
     // JavaScript Configurations
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
-    "workbench.colorTheme": "Hop Light",
-
+    "workbench.colorTheme": "SynthWave '84",
     // File Format
     "files.eol": "\n",
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "editor.formatOnSave": true,
-    "remote.SSH.configFile": "C:\\Users\\mehme\\.ssh\\config",
     "tabnine.experimentalAutoImports": true,
     "liveServer.settings.donotVerifyTags": true,
     "[html]": {
@@ -87,4 +76,4 @@
     "window.zoomLevel": 3,
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
-  }
+}
