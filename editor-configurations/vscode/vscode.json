@@ -73,7 +73,6 @@
     },
     "editor.fontWeight": "700",
     "editor.fontFamily": "Fira Code",
-    "window.zoomLevel": 3,
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }
