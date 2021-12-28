@@ -13,6 +13,7 @@
     "editor.fontLigatures": true,
     "editor.tabSize": 2,
     // Terminal Settings
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
     "terminal.integrated.fontWeight": "bold",
     "terminal.integrated.fontFamily": "Fira Code",
     "terminal.integrated.rendererType": "dom",
