@@ -2,7 +2,7 @@
     // Main Editor
     "workbench.activityBar.visible": true,
     "workbench.startupEditor": "welcomePage",
-    "workbench.sideBar.location": "left",
+    "workbench.sideBar.location": "right",
     "editor.renderWhitespace": "all",
     "editor.tabCompletion": "on",
     "editor.minimap.enabled": false,
