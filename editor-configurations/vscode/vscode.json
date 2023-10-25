@@ -57,7 +57,7 @@
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
-    "workbench.colorTheme": "Bearded Theme Vivid Black",
+    "workbench.colorTheme": "Atom One Light",
     // File Format
     "files.eol": "\n",
     "[javascript]": {
