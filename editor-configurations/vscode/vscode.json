@@ -7,7 +7,6 @@
     "editor.tabCompletion": "on",
     "editor.minimap.enabled": false,
     "todo-tree.tree.showScanModeButton": false,
-    "explorer.openEditors.visible": 0,
     // "keyboard.dispatch": "keyCode"
     // Font Settings and Typing
     "editor.fontLigatures": true,
@@ -33,7 +32,7 @@
     "editor.fontSize": 14,
     "terminal.integrated.fontSize": 12,
     // Enable Tabs and Disable Preview
-    "workbench.editor.showTabs": true,
+    "workbench.editor.showTabs":"multiple",
     "workbench.editor.enablePreview": true,
     // Editor File Cover
     "files.exclude": {
@@ -50,14 +49,12 @@
         "key": "",
         "passphrase": ""
     },
-    "eslint.autoFixOnSave": true,
     "liveshare.presence": false,
     "workbench.iconTheme": "file-icons",
     // JavaScript Configurations
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
-    "workbench.colorTheme": "Atom One Light",
     // File Format
     "files.eol": "\n",
     "[javascript]": {
@@ -75,5 +72,6 @@
     "editor.fontWeight": "700",
     "editor.fontFamily": "Fira Code",
     "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Hopscotch Mono"
 }
